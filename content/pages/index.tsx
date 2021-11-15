@@ -10,6 +10,7 @@ import Instagram from '../../svgs/instagram';
 import LinkedIn from '../../svgs/linkedin';
 import Twitter from '../../svgs/twitter';
 
+
 const iconMap = {
     arrowLeft: ArrowLeft,
     arrowRight: ArrowRight,
