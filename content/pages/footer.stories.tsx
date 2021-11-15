@@ -18,6 +18,7 @@ export default {
     }
 };
 
+
 const Template = (args) => <Footer {...args} />;
 
 const args = {
